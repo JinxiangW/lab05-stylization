@@ -6,15 +6,15 @@ Let's practice adding stylization to a 3D scene using Unity's shader graph!
 
 | Puzzle1                  |
 | ------------------------ |
-| ![](results/result1.png) |
+| ![](Results/result1.png) |
 
 | Puzzle2                  |
 | ------------------------ |
-| ![](results/puzzle2.png) |
+| ![](Results/puzzle2.png) |
 
 | Puzzle3                  |
 | ------------------------ |
-| ![](results/puzzle3.png) |
+| ![](Results/puzzle3.png) |
 
 ## Introduction
 
