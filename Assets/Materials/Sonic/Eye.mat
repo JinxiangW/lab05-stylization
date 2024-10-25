@@ -139,8 +139,8 @@ Material:
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _Threshold: 0.7
-    - _ThresholdHigh: 0
-    - _ThresholdLow: 0.7
+    - _ThresholdHigh: 0.77
+    - _ThresholdLow: 0.59
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
